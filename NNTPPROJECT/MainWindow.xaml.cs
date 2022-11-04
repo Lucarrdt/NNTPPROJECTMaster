@@ -29,5 +29,25 @@ namespace NNTPPROJECT
             Debug.WriteLine(nntp.GetGroups()[1]);
             
         }
+
+        private void GetNewsGroup_OnClick(object sender, RoutedEventArgs e)
+        {
+            throw new NotImplementedException();
+        }
+
+        private void onGetArticlesClick(object sender, RoutedEventArgs e)
+        {
+            throw new NotImplementedException();
+        }
+
+        private void onGetArticleClick(object sender, RoutedEventArgs e)
+        {
+            throw new NotImplementedException();
+        }
+
+        private void onPostArticleClick(object sender, RoutedEventArgs e)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

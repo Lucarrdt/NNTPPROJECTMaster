@@ -5,17 +5,49 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:NNTPPROJECT"
         mc:Ignorable="d"
-        Title="NewsReader" Height="450" Width="800">
-    <Grid Background="BlanchedAlmond">
-    <TabControl>
-        <TabItem Width="80" Height="50" Header="Searching">
-            <Grid>
+        Title="NewsReader" Height="450" Width="1000">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="8*" />
+        </Grid.RowDefinitions>
+
+        <StackPanel Orientation="Horizontal">
+            <Button x:Name="testButton" Click="GetNewsGroup_OnClick">Get News Groups</Button>
+            <Button x:Name="testButton3" Click="onGetArticlesClick">Get Articles</Button>
+            <Button x:Name="testButton4" Width="50" Click="onGetArticleClick">Read</Button>
+            <Button x:Name="testButton5" Width="50" Click="onPostArticleClick">Post</Button>
+        </StackPanel>
+
+        <Grid Grid.Column="1" Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="8*" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1*" />
+            </Grid.RowDefinitions>
+            
+            <Grid Grid.Column="1">
                 <Grid.ColumnDefinitions>
-                    <ColumnDefinition Width="1*"/>
-                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="1*" />
+                    <ColumnDefinition Width="1*" />
                 </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="1*" />
+                </Grid.RowDefinitions>
+
+                <ListView x:Name="ListNewsGroup" Grid.Column="0" ItemsSource="{Binding NewsGroups}" SelectionMode="Single">
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn Header="News group" DisplayMemberBinding="{Binding Group}"/>
+                        </GridView>
+                    </ListView.View>
+                </ListView>
             </Grid>
-        </TabItem>
-    </TabControl>    
+        </Grid>
     </Grid>
 </Window>

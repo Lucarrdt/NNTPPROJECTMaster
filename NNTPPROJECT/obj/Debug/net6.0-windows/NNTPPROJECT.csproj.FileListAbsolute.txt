@@ -19,3 +19,24 @@ C:\Users\Alvaro Riccardi\RiderProjects\NNTPPROJECT\NNTPPROJECT\obj\Debug\net6.0-
 C:\Users\Alvaro Riccardi\RiderProjects\NNTPPROJECT\NNTPPROJECT\obj\Debug\net6.0-windows\NNTPPROJECT.pdb
 C:\Users\Alvaro Riccardi\RiderProjects\NNTPPROJECT\NNTPPROJECT\obj\Debug\net6.0-windows\NNTPPROJECT.genruntimeconfig.cache
 C:\Users\Alvaro Riccardi\RiderProjects\NNTPPROJECT\NNTPPROJECT\obj\Debug\net6.0-windows\ref\NNTPPROJECT.dll
+C:\Users\Alvaro\RiderProjects\NNTPPROJECT\NNTPPROJECT\bin\Debug\net6.0-windows\NNTPPROJECT.exe
+C:\Users\Alvaro\RiderProjects\NNTPPROJECT\NNTPPROJECT\bin\Debug\net6.0-windows\NNTPPROJECT.deps.json
+C:\Users\Alvaro\RiderProjects\NNTPPROJECT\NNTPPROJECT\bin\Debug\net6.0-windows\NNTPPROJECT.runtimeconfig.json
+C:\Users\Alvaro\RiderProjects\NNTPPROJECT\NNTPPROJECT\bin\Debug\net6.0-windows\NNTPPROJECT.dll
+C:\Users\Alvaro\RiderProjects\NNTPPROJECT\NNTPPROJECT\bin\Debug\net6.0-windows\NNTPPROJECT.pdb
+C:\Users\Alvaro\RiderProjects\NNTPPROJECT\NNTPPROJECT\obj\Debug\net6.0-windows\NNTPPROJECT.csproj.AssemblyReference.cache
+C:\Users\Alvaro\RiderProjects\NNTPPROJECT\NNTPPROJECT\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Alvaro\RiderProjects\NNTPPROJECT\NNTPPROJECT\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Alvaro\RiderProjects\NNTPPROJECT\NNTPPROJECT\obj\Debug\net6.0-windows\NNTPPROJECT_MarkupCompile.cache
+C:\Users\Alvaro\RiderProjects\NNTPPROJECT\NNTPPROJECT\obj\Debug\net6.0-windows\NNTPPROJECT_MarkupCompile.lref
+C:\Users\Alvaro\RiderProjects\NNTPPROJECT\NNTPPROJECT\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Alvaro\RiderProjects\NNTPPROJECT\NNTPPROJECT\obj\Debug\net6.0-windows\NNTPPROJECT.g.resources
+C:\Users\Alvaro\RiderProjects\NNTPPROJECT\NNTPPROJECT\obj\Debug\net6.0-windows\NNTPPROJECT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alvaro\RiderProjects\NNTPPROJECT\NNTPPROJECT\obj\Debug\net6.0-windows\NNTPPROJECT.AssemblyInfoInputs.cache
+C:\Users\Alvaro\RiderProjects\NNTPPROJECT\NNTPPROJECT\obj\Debug\net6.0-windows\NNTPPROJECT.AssemblyInfo.cs
+C:\Users\Alvaro\RiderProjects\NNTPPROJECT\NNTPPROJECT\obj\Debug\net6.0-windows\NNTPPROJECT.csproj.CoreCompileInputs.cache
+C:\Users\Alvaro\RiderProjects\NNTPPROJECT\NNTPPROJECT\obj\Debug\net6.0-windows\NNTPPROJECT.dll
+C:\Users\Alvaro\RiderProjects\NNTPPROJECT\NNTPPROJECT\obj\Debug\net6.0-windows\refint\NNTPPROJECT.dll
+C:\Users\Alvaro\RiderProjects\NNTPPROJECT\NNTPPROJECT\obj\Debug\net6.0-windows\NNTPPROJECT.pdb
+C:\Users\Alvaro\RiderProjects\NNTPPROJECT\NNTPPROJECT\obj\Debug\net6.0-windows\NNTPPROJECT.genruntimeconfig.cache
+C:\Users\Alvaro\RiderProjects\NNTPPROJECT\NNTPPROJECT\obj\Debug\net6.0-windows\ref\NNTPPROJECT.dll
