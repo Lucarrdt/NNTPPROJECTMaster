@@ -19,13 +19,14 @@
             <Button x:Name="testButton" Click="GetNewsGroup_OnClick">Get News Groups</Button>
             <Button x:Name="testButton3" Click="onGetArticlesClick">Get Articles</Button>
             <Button x:Name="testButton4" Width="50" Click="onGetArticleClick">Read</Button>
-            <Button x:Name="testButton5" Width="50" Click="onPostArticleClick">Post</Button>
+            <Button x:Name="testButton5" Width="70" Click="onPostArticleClick">Post Article</Button>
         </StackPanel>
 
         <Grid Grid.Column="1" Grid.Row="2">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="1*" />
                 <ColumnDefinition Width="8*" />
+                
             </Grid.ColumnDefinitions>
             <Grid.RowDefinitions>
                 <RowDefinition Height="1*" />

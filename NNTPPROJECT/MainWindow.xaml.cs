@@ -32,7 +32,7 @@ namespace NNTPPROJECT
 
         private void GetNewsGroup_OnClick(object sender, RoutedEventArgs e)
         {
-            throw new NotImplementedException();
+            viewModel.GetGroups();
         }
 
         private void onGetArticlesClick(object sender, RoutedEventArgs e)
